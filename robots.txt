@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mgny84.pulaucuan.org/sitemap.xml
